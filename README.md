@@ -1,2 +1,5 @@
 # hello_world
-Following the guide at https://guides.github.com/activities/hello-world/
+
+I am Drew. This is new.
+Learning how to use GitHub to better manage .Net app development and probably workflow for Blender and Unity.
+Ch-ch-ch-ch-chANGES!
